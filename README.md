@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aritra-B
-- 👀 I’m interested in data science and comuting
+- 👀 I’m interested in data science and computing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me aritra214@gmail.com
